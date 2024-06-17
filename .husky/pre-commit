@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+# . "$(dirname -- "$0")/_/husky.sh"
+git status | grep modified | awk '{print $2}' > chanceList.txt
+echo chanceList.txt
+node script/husky
