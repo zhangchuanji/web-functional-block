@@ -30,4 +30,5 @@
   - [ ] eslint
   - [ ] prettier
   - [ ] husky、lint-staged、config-conventional
+  - [ ] react add eslint test husky 等 
 - [ ] 工具的源码
