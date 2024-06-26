@@ -1,0 +1,21 @@
+{
+  "name": "my-webpack5",
+  "version": "1.0.0",
+  "description": "webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "adam",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^5.92.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.1.4"
+  }
+}
