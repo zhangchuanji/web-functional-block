@@ -3,7 +3,7 @@
     <el-button type="primary" plain @click="addItem">新增</el-button>
     <dialogForm
       :dialogVisible="dialogVisible"
-      :title="'新增表单'"
+      :title="'新增表单1'"
       :width="1000"
       :formItem="formItems"
       @submit="handleSubmit"
