@@ -9,5 +9,8 @@
   "subRepository": [
     "frontend/vue/my-vue3-ts",
     "frontend/vue/my-vue3-js"
-  ]
+  ],
+  "dependencies": {
+    "vite": "^5.3.3"
+  }
 }
